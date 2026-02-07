@@ -26,7 +26,7 @@ The database includes the following:
 
 ## 🔍 Analysis & Queries
 
-TBD
+**PART 1** - Contains beginner scenarios demonstrating SQL joins, aggregation functions, conditional logic, date calculations, string manipulation, and filtering/grouping techniques. It includes queries for analyzing book popularity, genre popularity, and member activity.
 
 ## 🛠️ Tools & Technologies
 
