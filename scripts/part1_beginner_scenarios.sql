@@ -9,7 +9,10 @@ Skills Demonstrated:
 - Date Calculations: DATEDIFF()
 - String Manipulation: CONCAT()
 - Filtering & Grouping: GROUP BY, HAVING, ORDER BY
+
 =======================================================
+=======================================================
+
 1) Basic Popularity List
 
 Goal:
