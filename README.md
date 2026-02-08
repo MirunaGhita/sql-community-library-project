@@ -43,10 +43,6 @@ The database includes the following:
 **Relationships are enforced using primary and foreign keys to maintain data integrity.**
 
 
-## 📂 Repository Structure
-
-TBD
-
 ## 🛡️ License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
