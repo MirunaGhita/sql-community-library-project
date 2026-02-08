@@ -15,7 +15,10 @@ The database was designed to reflect real-world library processes such as book c
 
 **PART 1** - Contains beginner scenarios demonstrating SQL joins, aggregation functions, conditional logic, date calculations, string manipulation, and filtering/grouping techniques. It includes queries for analyzing book popularity, genre popularity, and member activity.
 
-**PART 2** - Contains intermediate scenarios, including a smart book recommendation system, event ROI analysis, inventory management, and a member loyalty program. It demonstrates advanced SQL techniques such as JOINs, subqueries, CTEs, and window functions.
+**PART 2** - Contains intermediate scenarios, including a smart book recommendation system, event ROI analysis, inventory management, and a member loyalty program. It demonstrates intermediate SQL techniques such as JOINs, subqueries, CTEs, and window functions.
+
+**PART 3** - Performance Dashboard - Contains an advanced analytics project featuring a comprehensive monthly performance dashboard with 42+ metrics across activity, financial, engagement, and operational categories. Demonstrates advanced SQL techniques including CTEs, window functions, conditional aggregations, date manipulations, multi-table JOINs, trend analysis, and complex KPI calculations. 
+Showcases month-over-month comparisons, inventory utilization tracking, revenue per member analysis, and automated genre popularity rankings.
 
 ## 🛠️ Tools & Technologies
 
