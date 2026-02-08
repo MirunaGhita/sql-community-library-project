@@ -1,7 +1,7 @@
 ## 📚 Community Library Management System
 
 ![SQL](https://img.shields.io/badge/SQL-Server-blue?style=for-the-badge&logo=Microsoft-SQL-Server)
-![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-orange?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-pink?style=for-the-badge)
 
 ## 📌 Project Overview
 
@@ -14,6 +14,8 @@ The database was designed to reflect real-world library processes such as book c
 ## 🔍 Analysis & Queries
 
 **PART 1** - Contains beginner scenarios demonstrating SQL joins, aggregation functions, conditional logic, date calculations, string manipulation, and filtering/grouping techniques. It includes queries for analyzing book popularity, genre popularity, and member activity.
+
+**PART 2** - Contains intermediate scenarios, including a smart book recommendation system, event ROI analysis, inventory management, and a member loyalty program. It demonstrates advanced SQL techniques such as JOINs, subqueries, CTEs, and window functions.
 
 ## 🛠️ Tools & Technologies
 
