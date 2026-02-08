@@ -25,7 +25,6 @@ Showcases month-over-month comparisons, inventory utilization tracking, revenue 
 - **SQL Server / SQL Server Express** – Database hosting  
 - **SQL Server Management Studio (SSMS)** – SQL development and management  
 - **DrawIO** – Architecture and data flow diagrams  
-- **Git / GitHub** – Version control and project management  
 - **Notion** – Project planning and documentation  
 
 ## 🗂️ Database Structure
